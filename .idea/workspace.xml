@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="150dbb4a-927a-4373-9284-5a31b0ca1042" name="Changes" comment="new.py">
-      <change afterPath="$PROJECT_DIR$/keyboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto_dogs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +40,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.dogs.executor": "Run",
+    "Python.foto_dogs.executor": "Run",
     "Python.keyboard.executor": "Run",
     "Python.main.executor": "Run",
     "Python.new.executor": "Run",
